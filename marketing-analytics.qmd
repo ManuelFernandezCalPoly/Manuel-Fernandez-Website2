@@ -1,22 +1,40 @@
 ---
 title: "Marketing Analytics"
-listing: 
-  contents: listings
-  type: grid
-  categories: true
-  sort: 
-    - "index desc"
+
 ---
+
+
 
 Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
 
 Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.
 
-## What You’ll Find
+## Campaign Performance Analysis
 
-- **Campaign Performance Analysis:** Evaluating the effectiveness of digital marketing efforts using data.
-- **Data Visualization:** Turning raw datasets into intuitive dashboards and reports.
-- **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
-- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+I conducted an analysis of multi-channel digital campaigns using KPIs such as impressions, clicks, CTR, CPA, and conversions. By visualizing this data over time, I identified high-performing channels and optimized budget allocations.
 
----
+```{r}
+# Example Visualization (Mock Data)
+library(tidyverse)
+set.seed(42)
+df <- tibble(
+  Channel = rep(c("Search", "Email", "Social", "Display"), each = 10),
+  Conversions = rpois(40, lambda = 50)
+)
+
+ggplot(df, aes(x = Channel, y = Conversions)) +
+  geom_boxplot(fill = "lightblue") +
+  labs(title = "Conversions by Channel", x = "Channel", y = "Conversions")
+```
+
+## Data Visualization
+
+Developed interactive dashboards and reports in tools like R and Excel to help stakeholders track marketing KPIs in real time.
+
+## Marketing Mix & Attribution
+
+Explored how various channels contribute to conversions and ROI through channel attribution modeling and time-series analysis.
+
+## Customer & Market Insights
+
+Used behavioral and demographic data to segment users and better understand audience preferences, enhancing campaign personalization and retention.

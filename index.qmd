@@ -5,22 +5,31 @@ title: "Hi, I'm Manuel Fernandez"
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/headshot2.jpg){width=100% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm a Marketing Manager. I specialize in planning, executing, and overseeing marketing strategies to promote a company’s products or services. My goal is to attract and retain customers, increase brand awareness, and drive sales or growth.
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+"The most difficult thing is the decision to act, the rest is merely tenacity." Amelia Earnhart
 
+I am a proud first-generation college student. Starting at San Bernardino Valley College I had no idea where the future would take me. The only thing I knew was that the only direction I would go is up. After enrolling full time in May 2022 I was able to achieve my Associate's Degree in Business Administration 2.0 successfully. 
+
+At Valley, I discovered that my true passion lies in management. The challenge of leading a group toward a common goal was something I not only embraced but genuinely thrived in. I found fulfillment in bringing people together, understanding their strengths, and helping them reach their full potential. Whether it was resolving conflict, motivating the team, or navigating high-pressure situations, I realized that leadership wasn’t just a role I stepped into—it was a skill I naturally brought to the table.
+
+After transferring to Cal Poly Pomona, I’ve continued to develop both my skills and my passion for leadership and business. I’m currently pursuing a Bachelor’s degree in Business Administration with an emphasis in Marketing Management and a specialization in Professional Selling.
+
+What excites me most about professional selling is that it’s more than just making a transaction. It’s about building trust, understanding people’s needs, and communicating value with clarity and confidence. These are the same core principles that drive great leadership, and mastering them helps me become not only a better communicator but a more empathetic and strategic professional overall.
+
+As I continue on this journey, I’m excited for what the future holds. I look forward to partnering with companies that value growth, authenticity, and purpose. Organizations where I can contribute meaningfully while continuing to learn and evolve. Whether it’s helping build strong teams, connecting the right talent with the right opportunities, or driving business success through effective communication, I’m ready to make a difference.
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:msfernandez1@cpp.edu) or connect on [LinkedIn](https://www.linkedin.com/in/manuel-fernandez-5015a31a9/).
 
 ---
 

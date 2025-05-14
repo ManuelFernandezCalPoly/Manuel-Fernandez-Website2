@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Hi, I’m Manuel Fernandez",
     "section": "",
-    "text": "I’m a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights."
+    "text": "I’m a Marketing Manager. I specialize in planning, executing, and overseeing marketing strategies to promote a company’s products or services. My goal is to attract and retain customers, increase brand awareness, and drive sales or growth."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Hi, I’m Manuel Fernandez",
     "section": "About Me",
-    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+    "text": "About Me\n“The most difficult thing is the decision to act, the rest is merely tenacity.” Amelia Earnhart\nI am a proud first-generation college student. Starting at San Bernardino Valley College I had no idea where the future would take me. The only thing I knew was that the only direction I would go is up. After enrolling full time in May 2022 I was able to achieve my Associate’s Degree in Business Administration 2.0 successfully.\nAt Valley, I discovered that my true passion lies in management. The challenge of leading a group toward a common goal was something I not only embraced but genuinely thrived in. I found fulfillment in bringing people together, understanding their strengths, and helping them reach their full potential. Whether it was resolving conflict, motivating the team, or navigating high-pressure situations, I realized that leadership wasn’t just a role I stepped into—it was a skill I naturally brought to the table.\nAfter transferring to Cal Poly Pomona, I’ve continued to develop both my skills and my passion for leadership and business. I’m currently pursuing a Bachelor’s degree in Business Administration with an emphasis in Marketing Management and a specialization in Professional Selling.\nWhat excites me most about professional selling is that it’s more than just making a transaction. It’s about building trust, understanding people’s needs, and communicating value with clarity and confidence. These are the same core principles that drive great leadership, and mastering them helps me become not only a better communicator but a more empathetic and strategic professional overall.\nAs I continue on this journey, I’m excited for what the future holds. I look forward to partnering with companies that value growth, authenticity, and purpose. Organizations where I can contribute meaningfully while continuing to learn and evolve. Whether it’s helping build strong teams, connecting the right talent with the right opportunities, or driving business success through effective communication, I’m ready to make a difference."
   },
   {
     "objectID": "index.html#what-i-do",
@@ -67,7 +67,7 @@
     "href": "resume.html",
     "title": "Résumé",
     "section": "",
-    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
+    "text": "You can view a PDF version of my résumé here."
   },
   {
     "objectID": "listings/02-seo-benchmarking-analysis.html",
@@ -95,7 +95,7 @@
     "href": "strategic-marketing.html",
     "title": "Strategic Marketing",
     "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+    "text": "This section showcases my experience in applying strategic marketing principles to develop brand positioning, competitive differentiation, and long-term growth plans. With a solid academic foundation and practical business experience, I integrate market insights and management strategy to support business objectives."
   },
   {
     "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
@@ -131,5 +131,131 @@
     "title": "Professional Summary",
     "section": "",
     "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Résumé",
+    "section": "🛠️ Skills",
+    "text": "🛠️ Skills\n\nCustomer Service & Communication\n\nSales & Marketing\n\nInventory Management\n\nPresentation & Public Speaking"
+  },
+  {
+    "objectID": "resume.html#relevant-coursework",
+    "href": "resume.html#relevant-coursework",
+    "title": "Résumé",
+    "section": "📚 Relevant Coursework",
+    "text": "📚 Relevant Coursework\n\nProfessional Selling\n\nConsumer Behavior\n\nPrinciples of Marketing Management\n\nOperations Management\n\nBusiness Analytics\n\nBusiness Calculus\n\nMarket Analysis and Control\n\nManagement Information Systems\n\nPrinciples of Management"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Résumé",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nCalifornia State Polytechnic University, Pomona, California\nBusiness Administration – Marketing Management\nCareer Track: Professional Sales/Sales Management\nExpected Graduation: Spring 2026\nSan Bernardino Valley College, San Bernardino, California\nAssociate in Science for Transfer in Business Administration\nGraduated: Spring 2024\nGPA: 3.3"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Résumé",
+    "section": "💼 Experience",
+    "text": "💼 Experience\nMobile Experts, San Bernardino, CA\nAssistant Manager\nJune 2022 – August 2024\n- Managed daily operations including opening/closing, cash handling, and inventory management.\n- Independently ran the shop multiple days per week, ensuring smooth operations in the owner’s absence.\n- Provided excellent customer service and resolved client inquiries and issues.\n- Handled scheduling, vendor communications, and kept a clean store environment.\n- Processed transactions, balanced registers, and maintained financial records."
+  },
+  {
+    "objectID": "resume.html#internship-experience",
+    "href": "resume.html#internship-experience",
+    "title": "Résumé",
+    "section": "🧑‍💼 Internship Experience",
+    "text": "🧑‍💼 Internship Experience\nMaking Hope Happen Foundation, San Bernardino, California\nMarketing Intern\nJanuary 2020 – June 2020\n- Created a professional presentation to showcase the foundation’s mission and impact.\n- Ensured branding consistency and contributed to compelling storytelling.\n- Designed appealing slides and persuasive content to attract investor interest.\n- Gained hands-on experience in nonprofit fundraising and stakeholder communications."
+  },
+  {
+    "objectID": "marketing-analytics.html#campaign-performance-analysis",
+    "href": "marketing-analytics.html#campaign-performance-analysis",
+    "title": "Marketing Analytics",
+    "section": "Campaign Performance Analysis",
+    "text": "Campaign Performance Analysis\nI conducted an analysis of multi-channel digital campaigns using KPIs such as impressions, clicks, CTR, CPA, and conversions. By visualizing this data over time, I identified high-performing channels and optimized budget allocations.\n\n# Example Visualization (Mock Data)\nlibrary(tidyverse)\n\nWarning: package 'stringr' was built under R version 4.4.3\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.0.4     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nset.seed(42)\ndf &lt;- tibble(\n  Channel = rep(c(\"Search\", \"Email\", \"Social\", \"Display\"), each = 10),\n  Conversions = rpois(40, lambda = 50)\n)\n\nggplot(df, aes(x = Channel, y = Conversions)) +\n  geom_boxplot(fill = \"lightblue\") +\n  labs(title = \"Conversions by Channel\", x = \"Channel\", y = \"Conversions\")"
+  },
+  {
+    "objectID": "marketing-analytics.html#data-visualization",
+    "href": "marketing-analytics.html#data-visualization",
+    "title": "Marketing Analytics",
+    "section": "Data Visualization",
+    "text": "Data Visualization\nDeveloped interactive dashboards and reports in tools like R and Excel to help stakeholders track marketing KPIs in real time."
+  },
+  {
+    "objectID": "marketing-analytics.html#marketing-mix-attribution",
+    "href": "marketing-analytics.html#marketing-mix-attribution",
+    "title": "Marketing Analytics",
+    "section": "Marketing Mix & Attribution",
+    "text": "Marketing Mix & Attribution\nExplored how various channels contribute to conversions and ROI through channel attribution modeling and time-series analysis."
+  },
+  {
+    "objectID": "marketing-analytics.html#customer-market-insights",
+    "href": "marketing-analytics.html#customer-market-insights",
+    "title": "Marketing Analytics",
+    "section": "Customer & Market Insights",
+    "text": "Customer & Market Insights\nUsed behavioral and demographic data to segment users and better understand audience preferences, enhancing campaign personalization and retention."
+  },
+  {
+    "objectID": "strategic-marketing.html#strategic-campaign-planning",
+    "href": "strategic-marketing.html#strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "Strategic Campaign Planning",
+    "text": "Strategic Campaign Planning\nLed the development and execution of retail marketing initiatives at Mobile Experts, focusing on customer interaction, sales optimization, and store presentation. Contributed to increased visibility and customer satisfaction through targeted promotions and merchandising."
+  },
+  {
+    "objectID": "strategic-marketing.html#brand-development",
+    "href": "strategic-marketing.html#brand-development",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Worked on crafting consistent brand messages and customer experiences through nonprofit marketing internships and academic marketing projects."
+  },
+  {
+    "objectID": "strategic-marketing.html#market-research-positioning",
+    "href": "strategic-marketing.html#market-research-positioning",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Conducted competitive analyses and customer research to guide market segmentation strategies. These insights informed pricing models, communication tactics, and product positioning."
+  },
+  {
+    "objectID": "strategic-marketing.html#communication-leadership",
+    "href": "strategic-marketing.html#communication-leadership",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Managed daily team operations and vendor communications in a small business setting, honing communication skills essential for marketing leadership roles."
+  },
+  {
+    "objectID": "strategic-marketing.html#core-skills",
+    "href": "strategic-marketing.html#core-skills",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Branding & Messaging\nCampaign Management\nContent Strategy\nCustomer Engagement\nSales Communication"
+  },
+  {
+    "objectID": "strategic-marketing.html#brand-positioning",
+    "href": "strategic-marketing.html#brand-positioning",
+    "title": "Strategic Marketing",
+    "section": "Brand Positioning",
+    "text": "Brand Positioning\nCollaborated on brand development initiatives during my internship at Making Hope Happen Foundation. Helped craft messaging and presentation materials that reflected the organization???s values, mission, and impact."
+  },
+  {
+    "objectID": "strategic-marketing.html#competitive-market-research",
+    "href": "strategic-marketing.html#competitive-market-research",
+    "title": "Strategic Marketing",
+    "section": "Competitive & Market Research",
+    "text": "Competitive & Market Research\nConducted research into market trends, consumer behavior, and competitor strategies during academic marketing projects. Used findings to support recommendations on segmentation, targeting, and positioning strategies."
+  },
+  {
+    "objectID": "strategic-marketing.html#data-driven-strategy",
+    "href": "strategic-marketing.html#data-driven-strategy",
+    "title": "Strategic Marketing",
+    "section": "Data-Driven Strategy",
+    "text": "Data-Driven Strategy\nUsed marketing data (impressions, conversions, customer behavior) to inform strategic decisions such as channel selection, resource allocation, and campaign timing."
+  },
+  {
+    "objectID": "strategic-marketing.html#key-competencies",
+    "href": "strategic-marketing.html#key-competencies",
+    "title": "Strategic Marketing",
+    "section": "Key Competencies",
+    "text": "Key Competencies\n\nBrand Strategy\n\nMarket Segmentation\n\nCompetitive Analysis\n\nCampaign Planning\n\nCustomer Experience"
   }
 ]

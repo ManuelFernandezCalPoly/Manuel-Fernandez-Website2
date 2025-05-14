@@ -1,14 +1,13 @@
 ---
-name: First
-surname: Last
-position: "Your Role or Career Focus"
-phone: +1 (XXX) XXX-XXXX
-www: yourwebsite.com
-email: "you@example.com"
-github: your-github
-linkedin: your-linkedin
+name: Manuel
+surname: Fernandez
+position: "Marketing Management Student"
+phone: +1 (951) 662-4990
+email: "msfernandez1@cpp.edu"
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
+  pdf_document:
+    latex_engine: xelatex
   vitae::latexcv:
     theme: classic
 header-includes:
@@ -17,73 +16,66 @@ header-includes:
    - \setlist[enumerate]{nosep, left=0pt}
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+# Manuel Fernandez
+ 951-662-4990  
+ msfernandez1@cpp.edu  
 
-if (!requireNamespace(c("tinytex","vitae","tibble"), quietly = TRUE)) {
-  install.packages(c("tinytex","vitae","tibble"))
-}
+---
 
-if (Sys.which("pdflatex") == "" && !tinytex::is_tinytex()) {                    
-  message("► TinyTeX not found – installing")
-  tinytex::install_tinytex()        
-} else {
-  message("✓ LaTeX present – no installation needed.")
-}
+##  Education
 
-library(vitae)
-library(tibble)
-```
+**California State Polytechnic University, Pomona, California**  
+_Business Administration – Marketing Management_  
+Career Track: Professional Sales/Sales Management  
+**Expected Graduation:** Spring 2026  
 
-# Professional Summary
+**San Bernardino Valley College, San Bernardino, California**  
+_Associate in Science for Transfer in Business Administration_  
+**Graduated:** Spring 2024  
+GPA: 3.3  
 
-Motivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.
+---
 
-# Technical Skills
+##  Experience
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.
+**Mobile Experts**, San Bernardino, CA  
+_Assistant Manager_  
+**June 2022 – August 2024**  
+- Managed daily operations including opening/closing, cash handling, and inventory management.  
+- Independently ran the shop multiple days per week, ensuring smooth operations in the owner's absence.  
+- Provided excellent customer service and resolved client inquiries and issues.  
+- Handled scheduling, vendor communications, and kept a clean store environment.  
+- Processed transactions, balanced registers, and maintained financial records.
 
-# Education
+---
 
-```{r}
-tribble(
-  ~ Degree, ~ Year, ~ College, ~ Institution,
-  "Master of [Your Field]", "20XX – Expected Graduation 20XX", "[Your School or Department]", "[Your University]",
-  "Bachelor of [Your Field]", "20XX – 20XX", "[Your School or Department]", "[Your University]"
-) %>%
-  detailed_entries(Degree, Year, College, Institution)
-```
+##  Internship Experience
 
-# Work Experience
+**Making Hope Happen Foundation**, San Bernardino, California  
+_Marketing Intern_  
+**January 2020 – June 2020**  
+- Created a professional presentation to showcase the foundation’s mission and impact.  
+- Ensured branding consistency and contributed to compelling storytelling.  
+- Designed appealing slides and persuasive content to attract investor interest.  
+- Gained hands-on experience in nonprofit fundraising and stakeholder communications.
 
-```{r}
-tribble(
-  ~ Years, ~ Company, ~ Duties, ~ Title,
+---
 
-  "Month YYYY – Month YYYY", "Company or Organization Name",
-  list(
-    "Summarize responsibility or achievement \\#1.",
-    "Highlight tools, technologies, or methods used.",
-    "Mention metrics, goals, or impact if possible.",
-    "Add communication or leadership responsibilities here."
-  ),
-  "Job Title",
+## ️ Skills
+- Customer Service & Communication  
+- Sales & Marketing  
+- Inventory Management  
+- Presentation & Public Speaking  
 
-  "Month YYYY – Month YYYY", "Another Company or Team",
-  list(
-    "Led a project or team focused on [insert focus].",
-    "Collaborated cross-functionally with [departments/roles].",
-    "Managed content, campaigns, or dashboards.",
-    "Contributed to strategic planning or reporting."
-  ),
-  "Job Title"
+---
 
-) %>%
-  detailed_entries(
-    what = Title,
-    when = Years,
-    with = Company,
-    why = Duties
-  )
-```
+##  Relevant Coursework
+- Professional Selling  
+- Consumer Behavior  
+- Principles of Marketing Management  
+- Operations Management  
+- Business Analytics  
+- Business Calculus  
+- Market Analysis and Control  
+- Management Information Systems  
+- Principles of Management  

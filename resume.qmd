@@ -14,42 +14,67 @@ rmarkdown::render(
 
 You can view a PDF version of my résumé [here](resume/Resume.pdf).
 
-# Professional Summary
 
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
-
-# Technical Skills
-
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
-
-# Education
-
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
-
-# Work Experience
-
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
-
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+# Manuel Fernandez
+📞 951-662-4990  
+📧 msfernandez1@cpp.edu  
 
 ---
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+## 🎓 Education
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+**California State Polytechnic University, Pomona, California**  
+_Business Administration – Marketing Management_  
+Career Track: Professional Sales/Sales Management  
+**Expected Graduation:** Spring 2026  
+
+**San Bernardino Valley College, San Bernardino, California**  
+_Associate in Science for Transfer in Business Administration_  
+**Graduated:** Spring 2024  
+GPA: 3.3  
 
 ---
+
+## 💼 Experience
+
+**Mobile Experts**, San Bernardino, CA  
+_Assistant Manager_  
+**June 2022 – August 2024**  
+- Managed daily operations including opening/closing, cash handling, and inventory management.  
+- Independently ran the shop multiple days per week, ensuring smooth operations in the owner's absence.  
+- Provided excellent customer service and resolved client inquiries and issues.  
+- Handled scheduling, vendor communications, and kept a clean store environment.  
+- Processed transactions, balanced registers, and maintained financial records.
+
+---
+
+## 🧑‍💼 Internship Experience
+
+**Making Hope Happen Foundation**, San Bernardino, California  
+_Marketing Intern_  
+**January 2020 – June 2020**  
+- Created a professional presentation to showcase the foundation’s mission and impact.  
+- Ensured branding consistency and contributed to compelling storytelling.  
+- Designed appealing slides and persuasive content to attract investor interest.  
+- Gained hands-on experience in nonprofit fundraising and stakeholder communications.
+
+---
+
+## 🛠️ Skills
+- Customer Service & Communication  
+- Sales & Marketing  
+- Inventory Management  
+- Presentation & Public Speaking  
+
+---
+
+## 📚 Relevant Coursework
+- Professional Selling  
+- Consumer Behavior  
+- Principles of Marketing Management  
+- Operations Management  
+- Business Analytics  
+- Business Calculus  
+- Market Analysis and Control  
+- Management Information Systems  
+- Principles of Management  
